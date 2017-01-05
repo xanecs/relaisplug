@@ -1,0 +1,5 @@
+SerialPort="/dev/cu.wchusbserial1a160"
+LivePin="12"
+NeutralPin="8"
+ServoPin="9"
+Port="3002"
